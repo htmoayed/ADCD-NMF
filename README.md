@@ -38,13 +38,6 @@ Install all required packages using
 pip install -r requirements.txt
 ```
 
-Example `requirements.txt`
-
-```
-numpy
-torch
-torch_geometric
-```
 
 ---
 
