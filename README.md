@@ -29,8 +29,6 @@ The implementation has been tested using
 
 - Python 3.11
 - NumPy
-- SciPy
-- scikit-learn
 - PyTorch
 - PyTorch Geometric
 
@@ -44,8 +42,6 @@ Example `requirements.txt`
 
 ```
 numpy
-scipy
-scikit-learn
 torch
 torch_geometric
 ```
